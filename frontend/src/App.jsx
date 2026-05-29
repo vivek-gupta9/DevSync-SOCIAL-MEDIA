@@ -3,7 +3,7 @@ import LandingPage from './pages/LandingPage';
 import HomeFeed from './pages/HomeFeed';
 import { CheckCircle, LogOut, AlertTriangle, RefreshCw } from 'lucide-react';
 
-// 🔥 THE MAGIC SAFETY NET: Catches any crash and prevents blank black screens!
+
 class ErrorBoundary extends React.Component {
   constructor(props) {
     super(props);
