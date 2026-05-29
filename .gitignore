@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables (MOST IMPORTANT - secrets yahan hote hain)
+.env
+.env.local
+.env.production
+
+# Build folders
+frontend/build/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
